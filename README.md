@@ -27,3 +27,7 @@ compares those images with some real-world examples and classify real and
 fake images.
 
 ![image](https://user-images.githubusercontent.com/117440185/220924540-755619da-fa11-4c74-8455-ec43afa86148.png)
+
+RESULTS 
+![image](https://user-images.githubusercontent.com/117440185/220928418-1d61c05c-26cd-4c88-9293-6c373faa1aca.png)
+
