@@ -1,5 +1,6 @@
 # Final-year-project
 INTRODUCTION
+
 Image completion method aim to repair the defects of digital images
 with plausibly synthesized content to make images look more natural. Image
 completion is one of the technologies used to fill in missing parts of images.
@@ -16,6 +17,7 @@ completes the missing region so that the completed face not only looks natural
 and realistic but also has consistency with the rest of the image.
 
 BACKGROUND
+
 DCGAN is an approach for generative modeling using deep learning
 methods such as CNN (Convolutional Neural Network). Generative modeling
 is an unsupervised learning approach that involves automatically discovering
@@ -29,5 +31,6 @@ fake images.
 ![image](https://user-images.githubusercontent.com/117440185/220924540-755619da-fa11-4c74-8455-ec43afa86148.png)
 
 RESULTS 
+
 ![image](https://user-images.githubusercontent.com/117440185/220928418-1d61c05c-26cd-4c88-9293-6c373faa1aca.png)
 
